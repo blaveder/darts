@@ -1,0 +1,16 @@
+#gameBoard input {
+    background: white;
+    border: 1px solid lightgrey;
+    padding: .85rem 0;
+    width: 100%;
+    max-width: 100px;
+    margin: 3px;
+    cursor: pointer;
+
+}
+#gameBoard input:hover {
+    background: lightgray;
+}
+#gameBoard input:focus {
+    background: lightgreen;
+}
